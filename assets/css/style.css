@@ -1,0 +1,13 @@
+/***** Body *****/
+
+.container {
+  width: 90vw;
+  max-width: 1920px;
+  margin: auto;
+}
+
+img {
+  display: block;
+  width: 100%;
+  margin: 3rem auto;
+}

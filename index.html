@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raster Image Optimization</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <main>
+    <div class="container">
+
+      <img loading="lazy" src="assets/images/full/city.jpg" srcset="
+      assets/images/lg/city.jpg 1920w,
+      assets/images/md/city.jpg 1024w, 
+      assets/images/sm/city.jpg 500w" 
+      alt="city" width="2400" height="1600">
+      
+      <img loading="lazy" src="assets/images/full/pond.jpg" srcset="
+      assets/images/lg/pond.jpg 1920w,
+      assets/images/md/pond.jpg 1024w,
+      assets/images/sm/pond.jpg 500w" 
+      alt="pond" width="2400" height="1554">
+
+      <img loading="lazy" src="assets/images/full/puppies.jpg" srcset="
+      assets/images/lg/puppies.jpg 1920w,
+      assets/images/md/puppies.jpg 1024w,
+      assets/images/sm/puppies.jpg 500w" 
+      alt="puppies" width="2400" height="1596">
+
+    </div>
+  </main>
+</body>
+</html>
