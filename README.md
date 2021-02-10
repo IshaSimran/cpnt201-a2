@@ -1,9 +1,9 @@
 # CPNT201-A2
 By Isha Simran
 
-- [GH Pages Site]()
+- [GH Pages Site](https://ishasimran.github.io/cpnt201-a2/index.html)
 
-- [Github Repo]()
+- [Github Repo](https://github.com/IshaSimran/cpnt201-a2)
 
 ## Attributions
 
